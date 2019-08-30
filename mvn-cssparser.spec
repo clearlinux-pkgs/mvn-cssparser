@@ -4,7 +4,7 @@
 #
 Name     : mvn-cssparser
 Version  : 1
-Release  : 1
+Release  : 2
 URL      : https://sourceforge.net/projects/cssparser/files/cssparser/0.9.16/cssparser-0.9.16-sources.jar
 Source0  : https://sourceforge.net/projects/cssparser/files/cssparser/0.9.16/cssparser-0.9.16-sources.jar
 Source1  : https://repo1.maven.org/maven2/net/sourceforge/cssparser/cssparser/0.9.16/cssparser-0.9.16.jar
